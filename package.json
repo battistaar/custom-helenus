@@ -1,5 +1,5 @@
 {
-  "name": "helenus",
+  "name": "custom-helenus",
   "version": "0.5.7",
   "description": "NodeJS Bindings for Cassandra",
   "keywords": [
